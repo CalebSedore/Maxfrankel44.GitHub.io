@@ -12,7 +12,6 @@
 <h2>Map Chart</h2>
  
 The link below displays a map displaying some of my favorite stadiums and arenas to attend a game at, in my home state of Florida. This includes multiple sports both at the professional and collegiate level.
-
 [Map of favorite stadiums](https://maxfrankel44.github.io/Maps123.html)
 
 <h2>Lehigh Percent Enrollment</h2>
