@@ -11,12 +11,12 @@ The link below displays a map displaying some of my favorite stadiums and arenas
 
 [Map of favorite stadiums](https://maxfrankel44.github.io/Maps123.html)
 
-<h3> Lehigh Percent Enrollment</h3>
+<h2> Lehigh Percent Enrollment</h2>
 
  <p4>The link below is a line graph showing the percent enrollment in the different Lehigh colleges over the past 10 years.</p4>
- https://maxfrankel44.github.io/PercentEnrollment2016.html
+[Lehigh Percent Enrollment](https://maxfrankel44.github.io/PercentEnrollment2016.html)
  
- <h4> Lehigh Enrollment by Demographic</h4>
+ <h2> Lehigh Enrollment by Demographic</h2>
  <p5>The link below displays a cool custom chart showing Lehighs enrollment by demographic, which is clearly dominated by the tri-state area in the fall of 2016.</p5> 
  
- https://maxfrankel44.github.io/LehighResidents.html
+[Enrollment by Demographic](https://maxfrankel44.github.io/LehighResidents.html)
