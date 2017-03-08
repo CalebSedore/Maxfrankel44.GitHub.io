@@ -9,8 +9,8 @@
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1_MkmGi5TZvgFHLK4OnHlc7Rd0vaLiE9pCVQDLiznJu8&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
  
- <h3>More Visualizations</h3>
  <br>
+ <h3>More Visualizations</h3>
  
 <h2>Map Chart</h2>
  
