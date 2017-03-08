@@ -1,5 +1,7 @@
 <h1>Hello World</h1>
-<p1>My name is Max Frankel I am from Tampa, Florida and currently am a Sophomore at Lehigh University. I am a member of the Lehigh Football team and I am majoring in journalism and minoring in entrepreneurship currently. This is a short comic I created introducing some of the fun and cool projects that I have learned to create via coding.</p1>
+<p1>My name is Max Frankel I am from Tampa, Florida and currently am a Sophomore at Lehigh University. I am a member of the Lehigh Football team and I am majoring in journalism and minoring in entrepreneurship currently.</p1>
+
+<p1> This is a short comic I created introducing some of the fun and cool projects that I have learned to create via coding in jouranism 24.</p1>
   
 <iframe src="//www.pixton.com/embed/vzdaextt" frameborder="0" width="100%" height="300" allowfullscreen></iframe>
 <br>  
