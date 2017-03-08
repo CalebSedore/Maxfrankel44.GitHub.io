@@ -1,7 +1,4 @@
-<IDOCTYPE.html>
-<html>
-<body>
-  <h1>Hello World</h1>
+<h1>Hello World</h1>
   <p1>This is a short commic I created introducing some of the fun and cool projects that I have learned to create via coding. </p1>
   <iframe src="//www.pixton.com/embed/vzdaextt" frameborder="0" width="100%" height="300" allowfullscreen></iframe>
   
