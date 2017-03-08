@@ -14,6 +14,7 @@ The link below displays a map displaying some of my favorite stadiums and arenas
 <h2> Lehigh Percent Enrollment</h2>
 
  <p4>The link below is a line graph showing the percent enrollment in the different Lehigh colleges over the past 10 years.</p4>
+ 
 [Lehigh Percent Enrollment](https://maxfrankel44.github.io/PercentEnrollment2016.html)
  
  <h2> Lehigh Enrollment by Demographic</h2>
