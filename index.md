@@ -1,6 +1,6 @@
 <h1>Hello World</h1>
-  <p1>This is a short commic I created introducing some of the fun and cool projects that I have learned to create via coding. </p1>
-  <iframe src="//www.pixton.com/embed/vzdaextt" frameborder="0" width="100%" height="300" allowfullscreen></iframe>
+  <p1>My name is Max Frankel I am currently a Sophomore This is a short commic I created introducing some of the fun and cool projects that I have learned to create via coding. </p1>
+<iframe src="//www.pixton.com/embed/vzdaextt" frameborder="0" width="100%" height="300" allowfullscreen></iframe>
   
 <h2>Greatest Living American (G.L.A)</h2>
   
