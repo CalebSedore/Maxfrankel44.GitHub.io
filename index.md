@@ -1,5 +1,5 @@
 <h1>Hello World</h1>
-<p1>My name is Max Frankel I am from Tampa, Florida and currently am a Sophomore at Lehigh University. I am a member of the Lehigh Football team and I am majoring in journalism and minoring in entrepreneurship currently. I am a sports junkie and have been all of my life; I love to follow and watch everything revolving sports from the drama to the game itself. This cite is an example of some of the cool ways I can display visualizations from cartoons, to timelines, to graphs. </p1>
+<p1>My name is Max Frankel I am from Tampa, Florida and currently am a Sophomore at Lehigh University. I am a member of the Lehigh Football team and I am majoring in journalism and minoring in entrepreneurship currently. I write for the sports section of our schools newspaper "The Brown and White." I am a sports junkie and have been all of my life; I love to follow and watch everything revolving sports from the drama to the game itself. This cite is an example of some of the cool ways I can display visualizations from cartoons, to timelines, to graphs. </p1>
 <br>
 <h2>Bruce and Mr.Unicorn</h2>
 <p1> This is a short comic I created introducing some of the fun and cool projects that I have learned to create via coding in jouranism 24.</p1>
