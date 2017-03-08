@@ -9,7 +9,7 @@
   <h2>Map Chart</h2>
 <p3>The link below displays a map displaying some of my favorite stadiums and arenas to attend a game at, in my home state of Florida. This includes multiple sports both at the professional and collegiate level.</p3> 
 
-https://maxfrankel44.github.io/Maps123.html
+[Map of favorite stadiums](https://maxfrankel44.github.io/Maps123.html)
 
 <h3> Lehigh Percent Enrollment</h3>
  <p4>The link below is a line graph showing the percent enrollment in the different Lehigh colleges over the past 10 years.</p4>
